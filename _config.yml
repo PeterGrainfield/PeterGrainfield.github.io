@@ -1,1 +1,7 @@
 theme: jekyll-swiss
+# Site Settings
+locale                   : "ja-JP"  # 日本語を扱うなら変更しておく
+title                    : "Whatever you want"
+name                     : "PeterGrainfield"
+description              : "There is nothing"
+repository               : "PeterGrainfield/PeterGrainfield.github.io"  # GitHub 上のリポジトリを指定する
